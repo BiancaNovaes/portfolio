@@ -1,7 +1,11 @@
-const imagem = document.querySelector("img")
+document.getElementById("HTML").onclick = function(){alert("HTML!");
+  };
 
-imagem.addEventListener("click, function")
+  document.getElementById("CSS").onclick = function(){alert("CSS!");
+  };
 
+  document.getElementById("JavaScript").onclick = function(){alert("JavaScript");
+  };
 
-
-    
+  document.getElementById("GitHub").onclick = function(){alert("GitHub!");
+  };
